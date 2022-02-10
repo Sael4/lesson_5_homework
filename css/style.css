@@ -10,11 +10,11 @@
 .container {
 	padding: 0 0;
 	overflow: hidden;
+	min-width: 100%;
 }
 
 /* =================================== PRODUCT ==================================== */
 .product {
-	display: inline-block;
 	min-width: 100%;
 	background-color: rgb(68, 81, 97);
 }
@@ -55,7 +55,6 @@
 
 /* =================================== ABOUT =============================================== */
 .about {
-	display: inline-block;
 	min-width: 100%;
 	min-height: 400px;
 	background-color: rgb(255, 255, 255);
